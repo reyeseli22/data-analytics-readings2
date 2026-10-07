@@ -1,0 +1,106 @@
+{
+  "readingId": "ai-literacy-confidence-reading",
+  "title": "Confidence Is Not Evidence — Verifying What AI Tells You",
+  "timestamp": "2026-10-01T01:41:22.509Z",
+  "persona": {
+    "name": "Nimble Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "videoreflect": "",
+    "rule": "",
+    "clue": ""
+  },
+  "score": {
+    "earned": 10,
+    "possible": 17,
+    "pct": 58.8
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-scenario": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-why": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-claim": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-order-verify": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-terminal-verify": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-rm": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-interview": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-newsit": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-video": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "video"
+    },
+    "resp-videoreflect": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-rule": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-clue": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "response"
+    }
+  }
+}
